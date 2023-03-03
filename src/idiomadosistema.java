@@ -1,5 +1,5 @@
 import java.util.Locale;
-public class idioma {
+public class idiomadosistema {
     public static void main(String[]args){
         Locale loc = Locale.getDefault();
         String Idioma = loc.getDisplayLanguage();
