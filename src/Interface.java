@@ -7,7 +7,7 @@ public class Interface {
        double peso = Double.parseDouble(JOptionPane.showInputDialog("Qual o seu peso? "));
        double altura = Double.parseDouble(JOptionPane.showInputDialog("Qual sua altura?"));
        String sexo = JOptionPane.showInputDialog("Qual seu Gênero?");
-       JOptionPane.showMessageDialog(null,"Olá " +nome+" Você têm "+idade+" anos! você é "+sexo+" têm"+altura+" de altura é"+peso+"kilos");
+       JOptionPane.showMessageDialog(null,"Olá " +nome+" Você têm "+idade+" anos! você é "+ sexo+" têm "+altura+" de altura é pesa"+peso+" kilos");
        
     }   
 }
