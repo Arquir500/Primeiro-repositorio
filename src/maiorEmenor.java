@@ -16,7 +16,7 @@ public class maiorEmenor {
         } else if (y>x) {
             System.out.println("O maior número é "+y+" O menor número é "+x);
         } else{
-            System.out.println("Os números possuem o mesmo valor");
+            System.out.println("Os números possuem o mesmo valor.");
         }
 
         
